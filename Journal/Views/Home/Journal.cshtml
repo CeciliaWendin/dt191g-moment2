@@ -1,0 +1,19 @@
+@model List<Journal.Models.JournalModel>
+@{
+ViewData["Title"] = "Dagbok";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="pt-5">
+   <p class="lead">@ViewBag.text</p>
+   @if(Model != null) {
+      @foreach(var journal in Model) {
+         <h3>@journal.Date</h3>
+         <p>@journal.Content</p>
+         <p>@journal.Name</p>
+         <hr />
+      }
+   }
+</div>
+

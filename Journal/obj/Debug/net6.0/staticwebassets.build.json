@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "BI2+ma68h5/Z2tlCUqG+YwaHnugxwoKelBro1m1lNS0=",
+  "Source": "Journal",
+  "BasePath": "_content/Journal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Journal/wwwroot",
+      "Source": "Journal",
+      "ContentRoot": "/Users/cecilia/Desktop/dt191g_vt22_cewe1800/Moment2/Journal/wwwroot/",
+      "BasePath": "_content/Journal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/cecilia/Desktop/dt191g_vt22_cewe1800/Moment2/Journal/wwwroot/css/main.css",
+      "SourceId": "Journal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cecilia/Desktop/dt191g_vt22_cewe1800/Moment2/Journal/wwwroot/",
+      "BasePath": "_content/Journal",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.css"
+    },
+    {
+      "Identity": "/Users/cecilia/Desktop/dt191g_vt22_cewe1800/Moment2/Journal/wwwroot/Images/hero.jpg",
+      "SourceId": "Journal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/cecilia/Desktop/dt191g_vt22_cewe1800/Moment2/Journal/wwwroot/",
+      "BasePath": "_content/Journal",
+      "RelativePath": "Images/hero.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/hero.jpg"
+    }
+  ]
+}
